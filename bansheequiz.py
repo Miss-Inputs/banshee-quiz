@@ -1,14 +1,3 @@
-"""
-Task list:
-	- Change difficulty - number of songs picked
-	- Play song again
-	- Maybe play song from different positions than the start?
-	- Handle titles of picked songs being the same
-	- Different attributes than song title
-	- Time limit on questions (maybe)
-	- Scoring by time taken to answer question
-"""
-
 import random
 import vlc
 from core import *

@@ -5,5 +5,3 @@ Well, it's a little quiz game that works with Banshee. It asks you what song is 
 Currently it has a command line interface. It will have a GUI one day.
 
 I don't know what else to say about it.
-
-meow
